@@ -13,7 +13,7 @@
 </p>
 </td>
 <td>
-  <img src="https://s5.ezgif.com/tmp/ezgif-56344f3b32cf6.gif" alt="Animated AI GIF" width="300" />
+<img src="https://github.com/user-attachments/assets/0519f1ff-f846-4fab-8e62-f7aad9fa86fa" alt="Animated AI GIF" width="300" />
 </td>
 </tr>
 </table>

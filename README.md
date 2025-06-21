@@ -25,8 +25,9 @@
 </p>
 
 <p align="left">
-  📄 My CV: <a href="https://drive.google.com/file/d/1f-lqGHrEDPijKX0QeJGrO5ebd1e5ZDXN/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1f-lqGHrEDPijKX0QeJGrO5ebd1e5ZDXN/view</a>
+  📄 My CV: <a href="https://drive.google.com/file/d/1Kwl04CkX3e4iBGKCuudelZktCwKJtZOQ/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1Kwl04CkX3e4iBGKCuudelZktCwKJtZOQ/view</a>
 </p>
+
 
 ---
 

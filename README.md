@@ -21,7 +21,7 @@
 ---
 
 <p align="left">
-  🔗 My LinkedIn: <a href="https://www.linkedin.com/in/doaa-samir-329588352/" target="_blank">https://www.linkedin.com/in/doaa-samir-329588352/</a>
+  🔗 My LinkedIn: <a href="https://www.linkedin.com/in/doaa-samir-70b4a0378/" target="_blank">https://www.linkedin.com/in/doaa-samir-329588352/</a>
 </p>
 
 <p align="left">
